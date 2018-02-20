@@ -1,4 +1,4 @@
 # rnn-cds-prediction
 Prediction of CDS regions using RNNs
 
-[Report](docs/predicting-protein-coding.pdf)
+[Report](http://www.saket-choudhary.me/rnn-cds-prediction/predicting-protein-coding.pdf)
